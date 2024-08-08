@@ -26,3 +26,18 @@ The project is deployed on vercel Link: [Website Link](https://oneboxassignment-
 
 # Installion
 * Download and intall NodeJs.
+* Download the libraries.
+
+# How execute and run
+* Clone this repo using git clone <repo-link>
+* Install the dependencies: npm install
+* To run: npm start
+* search the URL: http://localhost:3000/
+
+# Deployment in Vercel
+* install vercel CLI: npm i -g vercel
+* Create an account in vercel and authorize with github
+* push the code in github
+* type vercel in cmd on the respective path
+* answers the options based on your requirement
+* click on the deployment link
