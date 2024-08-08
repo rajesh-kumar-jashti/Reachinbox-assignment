@@ -3,6 +3,9 @@
 # Deployment:
 The project is deployed on vercel Link: https://oneboxassignment-n9ojf55nu-rajesh-kumar-jashtis-projects.vercel.app/
 
+# Video Link:
+https://drive.google.com/file/d/1XFd1zjP-F8CX6SmqAJrNuuzNsJS0Bmh1/view?usp=drive_link
+
 # Login Page:
 ![image](https://github.com/user-attachments/assets/5a18a705-4c31-44e2-9663-f329a4b73c57)
 
