@@ -4,8 +4,7 @@
 The project is deployed on vercel Link: [Website Link](https://oneboxassignment-n9ojf55nu-rajesh-kumar-jashtis-projects.vercel.app/)
 
 # Design File -
-https://www.figma.com/file/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?type=design&node-id=0-1
-&mode=design
+https://www.figma.com/file/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?type=design&node-id=0-1&mode=design
 
 # API File -
 https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27
